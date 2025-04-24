@@ -1,1 +1,4 @@
 azure-functions
+python-telegram-bot>=20.0
+python-dotenv==1.1.0
+asyncio
